@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weekdays", "..\Weekdays\Weekdays.csproj", "{7BCAA8F8-B677-424B-B23D-CE8C7B1BFB14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weekdays", "Weekdays\Weekdays.csproj", "{CFF52EC1-855C-478E-9B57-BFCA8515E099}"
 EndProject
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WeekdaysUI", "..\WeekdaysUI\WeekdaysUI.njsproj", "{1FBF9766-B39A-4B68-AB00-4C14187982C5}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WeekdaysWeb", "WeekdaysWeb\WeekdaysWeb.njsproj", "{B15E4C67-8048-4CEB-80C5-CBFF671DBD42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekdaysTests", "..\WeekdaysTests\WeekdaysTests.csproj", "{911A03C0-7EA8-4834-9E96-ED55D36FF1C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeekdaysTests", "WeekdaysTests\WeekdaysTests.csproj", "{4F6D5266-62D5-4A45-9CA0-123E78936C29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7BCAA8F8-B677-424B-B23D-CE8C7B1BFB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7BCAA8F8-B677-424B-B23D-CE8C7B1BFB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7BCAA8F8-B677-424B-B23D-CE8C7B1BFB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7BCAA8F8-B677-424B-B23D-CE8C7B1BFB14}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1FBF9766-B39A-4B68-AB00-4C14187982C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1FBF9766-B39A-4B68-AB00-4C14187982C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1FBF9766-B39A-4B68-AB00-4C14187982C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1FBF9766-B39A-4B68-AB00-4C14187982C5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{911A03C0-7EA8-4834-9E96-ED55D36FF1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{911A03C0-7EA8-4834-9E96-ED55D36FF1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{911A03C0-7EA8-4834-9E96-ED55D36FF1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{911A03C0-7EA8-4834-9E96-ED55D36FF1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF52EC1-855C-478E-9B57-BFCA8515E099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF52EC1-855C-478E-9B57-BFCA8515E099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF52EC1-855C-478E-9B57-BFCA8515E099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF52EC1-855C-478E-9B57-BFCA8515E099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15E4C67-8048-4CEB-80C5-CBFF671DBD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15E4C67-8048-4CEB-80C5-CBFF671DBD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15E4C67-8048-4CEB-80C5-CBFF671DBD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15E4C67-8048-4CEB-80C5-CBFF671DBD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6D5266-62D5-4A45-9CA0-123E78936C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6D5266-62D5-4A45-9CA0-123E78936C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6D5266-62D5-4A45-9CA0-123E78936C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6D5266-62D5-4A45-9CA0-123E78936C29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
