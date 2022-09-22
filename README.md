@@ -19,6 +19,10 @@ http://localhost:52211/swagger/index.html
 
 http://localhost:1337/
 
+Also, inside WeekdaysApp code, 
+  1. open command prompt
+  2. Run 'npm install'
+
 Snapshots for reference:
 
 ![image](https://user-images.githubusercontent.com/39909249/191680753-205a835c-3698-42f6-97f2-beb1d7c2f4f6.png)
