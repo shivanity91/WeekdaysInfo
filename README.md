@@ -7,6 +7,11 @@ Fetch 7 days from current date
 
 On Edit: pass 7 dates and fetch respective 7 days for each
 
+Demo: (Extract file)
+
+[API_And_Feature_Demo.zip](https://github.com/shivanity91/WeekdaysInfo/files/9623462/API_And_Feature_Demo.zip)
+
+
 ## Tools/Technologies used:
 
 VS2019, C#, WebAPI, xUnit, Moq, VueJS
